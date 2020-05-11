@@ -1,0 +1,6 @@
+C:\Users\Mahdi\Desktop\LoginPage\LoginPage\bin\LoginPage.dll.config
+C:\Users\Mahdi\Desktop\LoginPage\LoginPage\bin\LoginPage.dll
+C:\Users\Mahdi\Desktop\LoginPage\LoginPage\bin\LoginPage.pdb
+C:\Users\Mahdi\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\Mahdi\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.dll
+C:\Users\Mahdi\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
